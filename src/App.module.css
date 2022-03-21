@@ -1,0 +1,13 @@
+.kotak{
+    width: 200px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: red;
+    border-radius: 10px;
+  }
+  
+  .judul{
+    color: green;
+    font-family: "Courier";
+  }
